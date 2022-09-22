@@ -18,6 +18,7 @@
 .nav-brand {
 	font-size: 40px;
 	text-decoration: none;
+	padding-left: 20px;
 }
 .navbar ul li {
 	padding: 0px 20px;
@@ -34,6 +35,7 @@
 	font-weight: 550;
 	margin-top: 30px;
 	margin-left: 50px;
+	margin-right: 20px;
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
@@ -52,7 +54,7 @@
 	color: #632626;
 	font-weight: 550;
 	margin-top: 30px;
-	margin-left: 50px;
+	margin-left: 70px;
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
@@ -129,17 +131,20 @@ figure {
 }
 #head-p {
 	padding-top: 30px;
+	padding-left: 20px;
 }
 #head {
 	font-size: 76px;
 	line-height: 65px;
 	font-family: Karma;
+	padding-left: 20px;
 }
 #desc {
 	margin-top: 10px;
-	margin-right: 90px;
+	margin-right: 70px;
 	text-align: center;
-	padding-right: 80px;
+	padding-right: 70px;
+	padding-left: 20px;
 }
 .select-meal {
 	margin-left: 30px;
