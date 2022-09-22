@@ -1,17 +1,11 @@
 .bg-img {
-	background-image: url("images/miti-YXjr5gdbGnI-unsplash.jpg");
+	background-image: url("images/ibrahim-boran-aBNPslolmJM-unsplash.jpg");
 	height: 100vh;
 	width: 100vw;
 	position: relative;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-}
-#desc {
-	margin-top: 10px;
-	margin-right: 90px;
-	text-align: center;
-	padding-right: 80px;
 }
 .title {
 	font-family: Karma;
@@ -26,6 +20,7 @@
 .nav-brand {
 	font-size: 40px;
 	text-decoration: none;
+	padding-left: 20px;
 }
 .navbar ul li {
 	padding: 0px 20px;
@@ -39,6 +34,7 @@
 	font-weight: 550;
 	margin-top: 30px;
 	margin-left: 50px;
+	margin-right: 20px;
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
@@ -57,7 +53,7 @@
 	color: #632626;
 	font-weight: 550;
 	margin-top: 30px;
-	margin-left: 50px;
+	margin-left: 70px;
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
@@ -82,13 +78,21 @@
 	font-size: 76px;
 	line-height: 65px;
 	font-family: Karma;
+	padding-left: 20px;
+}
+#head-p {
+	padding-top: 30px;
+	padding-left: 20px;
+}
+#desc {
+	margin-top: 10px;
+	margin-right: 70px;
+	text-align: center;
+	padding-right: 70px;
+	padding-left: 20px;
 }
 .bg-color-1 {
 	background-color: #632626;
-}
-.desc {
-	margin-left: 350px;
-	margin-right: 350px;
 }
 .chefs {
 	margin: auto;
