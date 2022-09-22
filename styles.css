@@ -1,0 +1,222 @@
+.bg-img {
+	background-image: url("images/miti-YXjr5gdbGnI-unsplash.jpg");
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.title {
+	font-family: Karma;
+}
+.subtitle {
+	font-weight: 550;
+	letter-spacing: 2px;
+}
+.nav-brand {
+	font-size: 40px;
+	text-decoration: none;
+}
+.navbar ul li {
+	padding: 0px 20px;
+}
+#about:hover {
+	opacity: 1;
+}
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+#book {
+	background-color: #fbf2cf;
+	color: #632626;
+	font-weight: 550;
+	margin-top: 30px;
+	margin-left: 50px;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	border: none;
+	box-shadow: 0 5px #632626;
+}
+#book:active {
+  background-color: #fbf2cf;
+  transform: translateY(2px);
+}
+#explore {
+	background-color: #fbf2cf;
+	color: #632626;
+	font-weight: 550;
+	margin-top: 30px;
+	margin-left: 50px;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	border: none;
+	box-shadow: 0 5px #632626;
+}
+#explore:active {
+  background-color: #fbf2cf;
+  transform: translateY(2px);
+}
+
+.bg-color {
+	background-color: #fbf2cf;
+}
+#btn1 {
+  background-color: #d9534f;
+  color: #fbf2cf;
+  border-color: #fbf2cf;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 100px;
+  cursor: pointer;
+  width: 150px;
+  flex-flow: row nowrap;
+}
+#btn2, #btn3, #btn4 {
+	border-color: #d9534f;
+	color: #d9534f;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 100px;
+  margin-top: 40px;
+  cursor: pointer;
+  width: 150px;
+  flex-flow: row nowrap;
+}
+#btn2:hover {
+	background-color: #d9534f;
+	color: #fbf2cf;
+}
+#btn3:hover {
+	background-color: #d9534f;
+	color: #fbf2cf;
+}
+#btn4:hover {
+	background-color: #d9534f;
+	color: #fbf2cf;
+}
+figure {
+	padding-bottom: 20px;
+	align-items: center;
+	margin-left: -30px;
+}
+.dessert a {
+	text-decoration: none;
+	color: #632626;
+	border: 1px solid #632626;
+}
+.dessert:hover {
+	background-color: white;
+}
+
+.btn {
+	margin-left: 30px;
+}
+#head-p {
+	padding-top: 30px;
+}
+#head {
+	font-size: 76px;
+	line-height: 65px;
+	font-family: Karma;
+}
+#desc {
+	margin-top: 10px;
+	margin-right: 90px;
+	text-align: center;
+	padding-right: 80px;
+}
+.select-meal {
+	margin-left: 30px;
+}
+
+.card {
+	background-color: #fbf2cf;
+	border: none;
+}
+.zoom-in img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.zoom-in:hover img {
+	-webkit-transform: scale(0.9);
+	transform: scale(0.9);
+}
+.event-color {
+	color: #632626;
+}
+.price-color {
+	color: #d9534f;
+}
+.color-2 {
+	color: #ffad60;
+}
+.bg-color-1 {
+	background-color: #632626;
+}
+.carousel .carousel-indicators button {
+   width: 10px;
+   height: 10px;
+   border-radius: 100%;
+}
+#indicator {
+	background-color: #632626;
+}
+#indicator-half {
+	background-color: #632626;
+	opacity: 0.5;
+}
+#table {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.text-color {
+	color: #fbf2cf;
+}
+#book-1 {
+	background-color: #fbf2cf;
+	color: #632626;
+	font-weight: 550;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	width: 150px;
+	height: 50px;
+	box-shadow: 0 5px #632626;
+}
+#book-1:active {
+  background-color: #fbf2cf;
+  transform: translateY(2px);
+}
+.bg-color-footer {
+	background-color: #483838;
+}
+.footer {
+	color: #fbf2cf;
+}
+.tel {
+	opacity: 0.5;
+}
+svg:hover {
+	color: #ffad60;
+}
+.footer-state {
+	font-family: Karma;
+}

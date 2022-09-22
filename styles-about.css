@@ -1,0 +1,188 @@
+.bg-img {
+	background-image: url("images/miti-YXjr5gdbGnI-unsplash.jpg");
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#desc {
+	margin-top: 10px;
+	margin-right: 90px;
+	text-align: center;
+	padding-right: 80px;
+}
+.title {
+	font-family: Karma;
+}
+.subtitle {
+	font-weight: 550;
+	letter-spacing: 2px;
+}
+.card-text-1 {
+	font-weight: 550;
+}
+.nav-brand {
+	font-size: 40px;
+	text-decoration: none;
+}
+.navbar ul li {
+	padding: 0px 20px;
+}
+#about:hover {
+	opacity: 1;
+}
+#book {
+	background-color: #fbf2cf;
+	color: #632626;
+	font-weight: 550;
+	margin-top: 30px;
+	margin-left: 50px;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	border: none;
+	box-shadow: 0 5px #632626;
+}
+#book:active {
+  background-color: #fbf2cf;
+  transform: translateY(2px);
+}
+#explore {
+	background-color: #fbf2cf;
+	color: #632626;
+	font-weight: 550;
+	margin-top: 30px;
+	margin-left: 50px;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	border: none;
+	box-shadow: 0 5px #632626;
+}
+#explore:active {
+  background-color: #fbf2cf;
+  transform: translateY(2px);
+}
+.bg-color {
+	background-color: #fbf2cf;
+}
+
+.choose-us {
+	padding-top: 30px;
+}
+#head {
+	font-size: 76px;
+	line-height: 65px;
+	font-family: Karma;
+}
+.bg-color-1 {
+	background-color: #632626;
+}
+.desc {
+	margin-left: 350px;
+	margin-right: 350px;
+}
+.chefs {
+	margin: auto;
+	float: none;
+	margin-bottom: 10px;
+	border: none;
+	color: white;
+}
+.chefs .card-body {
+	background-color: #632626;
+}
+#chef-1:hover {
+	color: #ffad60;
+}
+#chef-2:hover {
+	color: #ffad60;
+}
+#chef-3:hover {
+	color: #ffad60;
+}
+.text-color {
+	color: #632626;
+}
+.text-color-2 {
+	color: #d9534f;
+}
+.text-color-3 {
+	color: #fbf2cf;
+}
+.color-2 {
+	color: #ffad60;
+}
+.card-border {
+	border: 1px solid #632626;
+	background-color: #fbf2cf;
+}
+.card-border:hover {
+	border-color: #ffad60;
+	background-color: #ffad60;
+	transform: translateY(2px);
+}
+form {
+	border-color: #632626;
+}
+.form-control {
+	border-color: #632626;
+}
+
+.message {
+	background-color: #632626;
+	color: #fbf2cf;
+	font-weight: 550;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	width: 140px;
+	height: 50px;
+	border: none;
+	margin-top: 5px;
+	box-shadow: 0 5px #fbf2cf;
+}
+.message:active {
+  background-color: #632626;
+  transform: translateY(2px);
+ }
+
+.bg-color-footer {
+	background-color: #483838;
+}
+.footer {
+	color: #fbf2cf;
+}
+.bi-twitter:hover {
+	color: #ffad60;
+}
+.bi-instagram:hover {
+	color: #ffad60;
+}
+.bi-facebook:hover {
+	color: #ffad60;
+}
+.bi-linkedin:hover {
+	color: #ffad60;
+}
+.bi-pinterest:hover {
+	color: #ffad60;
+}
+.bi-dribbble:hover {
+	color: #ffad60;
+}
+.tel {
+	opacity: 0.5;
+}
+.footer-state {
+	font-family: Karma;
+}
