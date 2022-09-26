@@ -33,7 +33,7 @@
 #book {
 	background-color: #fbf2cf;
 	color: #632626;
-	font-weight: 550;
+	font-weight: 540;
 	margin-top: 30px;
 	margin-left: 50px;
 	margin-right: 20px;
@@ -41,8 +41,8 @@
 	cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-	width: 140px;
-	height: 50px;
+	width: 130px;
+	height: 40px;
 	border: none;
 	box-shadow: 0 5px #632626;
 }
@@ -53,15 +53,15 @@
 #explore {
 	background-color: #fbf2cf;
 	color: #632626;
-	font-weight: 550;
+	font-weight: 540;
 	margin-top: 30px;
 	margin-left: 70px;
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-	width: 140px;
-	height: 50px;
+	width: 130px;
+	height: 40px;
 	border: none;
 	box-shadow: 0 5px #632626;
 }
@@ -84,7 +84,7 @@
   font-size: 16px;
   margin-left: 100px;
   cursor: pointer;
-  width: 150px;
+  width: 140px;
   flex-flow: row nowrap;
 }
 #btn2, #btn3, #btn4 {
@@ -98,7 +98,7 @@
   margin-left: 100px;
   margin-top: 40px;
   cursor: pointer;
-  width: 150px;
+  width: 140px;
   flex-flow: row nowrap;
 }
 #btn2:hover {
@@ -189,22 +189,22 @@ figure {
 	background-color: #632626;
 	opacity: 0.5;
 }
-#table {
-	margin-left: 200px;
-	margin-right: 200px;
-}
+/*#table {
+	padding-left: 200px;
+	padding-right: 200px;
+}*/
 .text-color {
 	color: #fbf2cf;
 }
 #book-1 {
 	background-color: #fbf2cf;
 	color: #632626;
-	font-weight: 550;
+	font-weight: 540;
 	cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-	width: 150px;
-	height: 50px;
+	width: 140px;
+	height: 40px;
 	box-shadow: 0 5px #632626;
 }
 #book-1:active {
