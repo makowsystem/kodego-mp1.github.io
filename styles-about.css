@@ -1,5 +1,5 @@
 .bg-img {
-	background-image: url("ibrahim-boran-aBNPslolmJM-unsplash.jpg");
+	background-image: url("images/ibrahim-boran-aBNPslolmJM-unsplash.jpg");
 	height: 100vh;
 	width: 100vw;
 	position: relative;
@@ -32,7 +32,7 @@
 #book {
 	background-color: #fbf2cf;
 	color: #632626;
-	font-weight: 550;
+	font-weight: 540;
 	margin-top: 30px;
 	margin-left: 50px;
 	margin-right: 20px;
@@ -40,8 +40,8 @@
 	cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-	width: 140px;
-	height: 50px;
+	width: 130px;
+	height: 40px;
 	border: none;
 	box-shadow: 0 5px #632626;
 }
@@ -52,15 +52,15 @@
 #explore {
 	background-color: #fbf2cf;
 	color: #632626;
-	font-weight: 550;
+	font-weight: 540;
 	margin-top: 30px;
 	margin-left: 70px;
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-	width: 140px;
-	height: 50px;
+	width: 130px;
+	height: 40px;
 	border: none;
 	box-shadow: 0 5px #632626;
 }
@@ -145,13 +145,13 @@ form {
 .message {
 	background-color: #632626;
 	color: #fbf2cf;
-	font-weight: 550;
+	font-weight: 540;
 	text-align: center;
 	cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-	width: 140px;
-	height: 50px;
+	width: 130px;
+	height: 40px;
 	border: none;
 	margin-top: 5px;
 	box-shadow: 0 5px #fbf2cf;
