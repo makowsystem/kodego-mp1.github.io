@@ -26,9 +26,52 @@
 	margin-left: 30px;
 	padding: 0px 20px;
 }
-#about:hover {
-	opacity: 1;
+
+#home {
+  position: relative;
+  text-decoration: none;
 }
+#home::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  border-radius: 3px;
+  background-color: white;
+  bottom: 0;
+  left: 0;
+  transform-origin: center;
+  transform: scaleX(0);
+  transition: transform .2s ease-in-out;
+}
+#home:hover::before {
+  transform-origin: center;
+  transform: scaleX(1);
+}
+
+#about {
+  position: relative;
+  text-decoration: none;
+}
+#about::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  border-radius: 3px;
+  background-color: white;
+  bottom: 0;
+  left: 0;
+  transform-origin: center;
+  transform: scaleX(0);
+  transition: transform .2s ease-in-out;
+}
+#about:hover::before {
+  transform-origin: center;
+  transform: scaleX(1);
+}
+
+
 #book {
 	background-color: #fbf2cf;
 	color: #632626;
@@ -48,6 +91,7 @@
 #book:active {
   background-color: #fbf2cf;
   transform: translateY(2px);
+
 }
 #explore {
 	background-color: #fbf2cf;
@@ -89,7 +133,7 @@
 	margin-top: 10px;
 	margin-right: 70px;
 	text-align: center;
-	padding-right: 70px;
+	padding-right: 70px;y
 	padding-left: 20px;
 }
 .bg-color-1 {
@@ -134,6 +178,10 @@
 	border-color: #ffad60;
 	background-color: #ffad60;
 	transform: translateY(2px);
+}
+
+.info {
+	color: #632626;
 }
 form {
 	border-color: #632626;
