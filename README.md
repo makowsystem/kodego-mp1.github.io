@@ -1,2 +1,2 @@
-# kodego-mp1.github.io
+# Kodego Mini Project 1
 
